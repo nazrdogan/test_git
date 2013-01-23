@@ -7,4 +7,6 @@
 
 
 echo "Github   mı lan o";
+
+echo "github";
 ?>
