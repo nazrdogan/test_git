@@ -6,5 +6,5 @@
  */
 
 
-echo "Github";
+echo "Github   mı lan o";
 ?>
